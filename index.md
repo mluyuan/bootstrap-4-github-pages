@@ -5,9 +5,9 @@ title: Bootstrap 4 Github Pages
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages)
 
-A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+A [Bootstrap 5](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
+* A full Bootstrap ~~4~~ 5 theme usable both on Github Pages and with a standalone Jekyll.
 * Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
 * Full support of Bootstrap's JavaScript plugins.
 * Supports all features of Github Pages and Jekyll.
@@ -42,7 +42,7 @@ Go in the `Settings` page of your repository, in the `Github Pages`, under the `
 
 ### That's it
 
-Your Github Pages website with customizable Bootstrap 4 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
+Your Github Pages website with customizable Bootstrap 5 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
 
 ## Customization Guide
 
@@ -86,7 +86,7 @@ Please note that, to ensure maximum compatibility with Github Pages, the `Gemfil
 
 ## Known issues
 
-* Bootstrap 4 should normally be post-processed using [Autoprefixer](https://github.com/postcss/autoprefixer). Even if it is possible to use autoprefixer with Jekyll, it is not possible with a classic Github Pages installation without adding some kind of pre-processing before publication. Since this project mostly aims compatibility with Github Pages I prefer to keep it that way. The consequences of this choice is that some Bootstrap features could not work as expected on older browsers.
+* Bootstrap 5 should normally be post-processed using [Autoprefixer](https://github.com/postcss/autoprefixer). Even if it is possible to use autoprefixer with Jekyll, it is not possible with a classic Github Pages installation without adding some kind of pre-processing before publication. Since this project mostly aims compatibility with Github Pages I prefer to keep it that way. The consequences of this choice is that some Bootstrap features could not work as expected on older browsers.
 
 ## How to contribute
 
