@@ -1,6 +1,8 @@
 
 # Boostrap 4 Github Pages
 
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/nicolas-van)
+
 A [Bootstrap 5](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
 * A full Bootstrap 5 theme usable both on Github Pages and with a standalone Jekyll.
